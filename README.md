@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sabir
-- 👀 I’m interested in Embedded Software Open Source 
+- 👀 I’m interested in  Open Source Embedded Software
 - 🌱 I’m currently learning Linux 
 - 💞️ I’m looking to collaborate on opensource IoT and Embedded projects
 - 📫 You can reach me at - sabir.embedded@gmail.com
